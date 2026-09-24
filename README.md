@@ -54,4 +54,4 @@ Example response:
     "status": "success",
     "prediction": 0,
     "cart_abandoned": true
-}
+}# cart-abandonment-prediction
