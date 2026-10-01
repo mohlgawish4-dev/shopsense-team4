@@ -1,0 +1,3 @@
+This directory is populated by running `flask db init` (see README.md).
+It is intentionally empty until then so the migration environment matches
+your actual PostgreSQL instance.
