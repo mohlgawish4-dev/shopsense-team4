@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+data/
+model.pkl
+events.csv
+products.csv

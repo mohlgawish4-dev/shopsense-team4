@@ -1,0 +1,8 @@
+venv/
+.venv/
+pycache/
+*.pyc
+data/
+*.pkl
+.env
+events.csv
